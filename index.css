@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image:url(https://wallpaperset.com/w/full/b/e/1/145099.jpg);
+    text-decoration: none;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+div{
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+}
+p{
+    color:aqua;
+    text-align: center;
+    padding-top: 25px;
+}
+img{
+    width: 500px;
+    height: 250px;
+    padding-top: 20px;
+}
